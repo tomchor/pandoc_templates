@@ -2,8 +2,9 @@
 title: Title
 author:
 - Author
+bibliography: bibfile.bib
 ...
 
 # First section
 
-some text
+Some text [@reference].
