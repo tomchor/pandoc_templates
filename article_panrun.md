@@ -5,6 +5,7 @@ author:
 bibliography: bibfile.bib
 geometry: margin=1in
 csl: blm.csl
+linestretch: 2
 output:
   pdf:
     output: article.pdf
