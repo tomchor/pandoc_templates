@@ -8,6 +8,7 @@ csl: blm.csl
 linestretch: 2
 output:
   pdf:
+    citeproc: true
     output: article.pdf
     metadata:
       fontsize: 12pt
